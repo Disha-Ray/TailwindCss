@@ -1,0 +1,22 @@
+<!-- text color -->
+<p class="text-blue-400">Hii Everyone</p>
+<p class="text-[#6EEEF4]">Hii Everyone</p>
+<p class="text-[rgb(239,62,90)]">Hii Everyone</p>
+
+<!-- padding -->
+<p class="p-4">Hii Everyone</p> 
+<p class="px-4">Hii Everyone</p> 
+<p class="py-4">Hii Everyone</p> 
+<p class="pl-4">Hii Everyone</p> 
+<p class="pr-4">Hii Everyone</p> 
+<p class="pt-4">Hii Everyone</p> 
+<p class="pb-4">Hii Everyone</p> 
+
+<!-- //margin -->
+<div class="bg-amber-800 m-6"> 
+<p class="pl-8">Hii Everyone</p> 
+</div>
+<!-- //class="mx-3"=> my,mr,ml,mt,mb -->
+
+
+
