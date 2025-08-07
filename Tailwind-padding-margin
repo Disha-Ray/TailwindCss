@@ -18,5 +18,11 @@
 </div>
 <!-- //class="mx-3"=> my,mr,ml,mt,mb -->
 
-
+<!-- width and height -->
+<div class="bg-blue-200 h-screen w-[100px]">
+  <div class="w-full bg-amber-200 h-20">Navbar</div>
+  <div class="h-20">body</div>
+  <div class="h-20">footer</div>
+</div>
+<!-- w-full ->full size of parent container -->
 
